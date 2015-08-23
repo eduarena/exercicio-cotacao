@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exercicio Cotacao</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_cotacao">Cotacao</string>
+    <string name="label_cotacao_bovespa">Cotação Bovespa</string>
+    <string name="label_cotacao_dia">Cotação do dia</string>
+    <string name="label_cotacao_row">Cotação</string>
+    <string name="label_variacao_row">Variação</string>
+    <string name="label_button_cotacao">Cotação</string>
+    <string name="title_dolar">Dolar</string>
+    <string name="title_euro">Euro</string>
+    <string name="label_button_atualizar">Atualizar</string>
+    <string name="label_atualizacao">Atualização:</string>
+</resources>
